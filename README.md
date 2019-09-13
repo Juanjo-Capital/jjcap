@@ -4,12 +4,15 @@ Juanjo Capital
 Co-founders
 ---
 * Dean Sublett
-* more
-* names
+* add
+* your
+* name
 * here
 
 Prereqs
 ---
-* Python 3.7
+Working in a virtual environment through `venv` with the latest version of [Python](https://www.python.org/downloads/) is recommended.
+
 * Jupyter notebook
 * pandas
+* [alpaca-trade-api](https://github.com/alpacahq/alpaca-trade-api-python)
