@@ -1,2 +1,15 @@
-# Juanjo Capital
-Initial README & repository setup - please decide on a repository name if you don't want to use 'jjcap' and reset it before everyone begins cloning.
+Juanjo Capital
+===
+
+Co-founders
+---
+* Dean Sublett
+* more
+* names
+* here
+
+Prereqs
+---
+* Python 3.7
+* Jupyter notebook
+* pandas
