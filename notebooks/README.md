@@ -3,7 +3,7 @@ Jupyter Notebooks
 
 Prereqs
 ---
-Working in a virtual environment through venv with the latest version of Python is recommended.
+Working in a virtual environment through `venv` with the latest version of Python is recommended.
 
 * jupyter 
 * pandas
