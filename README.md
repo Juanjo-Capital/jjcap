@@ -5,6 +5,7 @@ Co-founders
 ---
 * Dean Sublett
 * Adeet Patel
+* Shyon Ziari
 
 Prereqs
 ---
