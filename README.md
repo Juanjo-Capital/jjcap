@@ -9,6 +9,7 @@ Co-founders
 * Annie Williams
 * Vedant Goyal
 * Thomas White
+* Abhinay Dommalapati
 
 Prereqs
 ---
