@@ -7,6 +7,7 @@ Co-founders
 * Adeet Patel
 * Shyon Ziari
 * Annie Williams
+* Vedant Goyal
 
 Prereqs
 ---
