@@ -4,9 +4,7 @@ Vedant, Shyon, and Dean
 We will "filter" our universe of tech stocks further according to the following ratios:
 
 1. Liquidity Ratios
-    a. Current Ratio = (current assets) / (current liabilities)
-        i. 3.0 < x < 20.0
-    b. Quick Ratio = (cash + marketable securities) / (current liabilities)
+    a. Quick Ratio = (cash + accounts receivable + short-term or marketable securities) / (current liabilities)
         i. 3.0 < x < 20.0
 
 2. Financial Leverage Ratios
