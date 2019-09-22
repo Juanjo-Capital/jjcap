@@ -20,10 +20,12 @@ import finviz
 import pandas as pd
 
 # Fundamental indicators we're interested in
-keys = ['Market Cap', 'Quick Ratio', 'Debt/Eq', 'Gross Margin']
+keys = ['Market Cap', 'P/S', 'Quick Ratio', 'Debt/Eq', 'Gross Margin']
 
 # Our universe of stocks; this will just be the output of signals.py in the future
 FAANG = ['FB', 'AMZN', 'AAPL', 'NFLX', 'GOOGL']
+
+print("Fetching data...", end='\n\n')
 
 stock_list = []
 
