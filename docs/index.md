@@ -1,4 +1,6 @@
-# Juanjo Capital
+Juanjo Capital
+==========================
+
 ## Co-founders
 - Dean Sublett
 - Adeet Patel
