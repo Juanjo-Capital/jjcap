@@ -1,0 +1,715 @@
+▼ -5.25%	TXG	10x Genomics Inc - Ordinary Shares - Class A	49.99	596,300	46.62	53.69
+▼ -1.60%	VNET	21Vianet Group Inc.	7.99	59,300	7.95	8.39
+▼ -2.40%	TWOU	2U Inc.	16.29	1,623,700	15.91	16.84
+▼ -2.72%	DDD	3D Systems Corporation	7.88	898,100	7.75	8.08
+▼ -0.41%	WUBA	58.com Inc. American Depositary Shares each representing 2 Class A	51.57	519,800	51.33	52.26
+▼ -2.72%	EGHT	8x8 Inc	22.52	457,000	22.39	23.30
+▲ 1.02%	JFU	9F Inc - ADR	10.94	84,400	10.43	11.15
+▼ -2.33%	ATEN	A10 Networks Inc.	7.14	133,400	7.11	7.34
+▲ 3.57%	ABIL	Ability Inc.	0.58	11,100	0.53	0.619
+▼ -0.68%	ACIA	Acacia Communications Inc.	63.95	628,700	63.85	64.33
+▲ 0.65%	ACN	Accenture plc Class A (Ireland)	192.12	3,594,600	187.28	193.34
+▼ -0.22%	ACIW	ACI Worldwide Inc.	31.40	565,400	31.22	31.66
+▼ -3.29%	ACMR	ACM Research Inc.	14.10	30,000	14.09	14.556
+▼ -1.31%	ATVI	Activision Blizzard Inc	54.22	6,563,300	54.16	55.07
+▲ 0.35%	AYI	Acuity Brands Inc (Holding Company)	130.66	1,026,500	130.31	132.90
+0.00%	AEY	ADDvantage Technologies Group Inc.	2.00	4,200	2.00	2.04
+▼ -1.57%	IOTS	Adesto Technologies Corporation	8.755	338,100	8.60	9.00
+▲ 2.30%	ADBE	Adobe Systems Incorporated	283.81	4,270,800	277.01	285.90
+▼ -3.59%	ADTN	ADTRAN Inc.	11.28	140,700	11.20	11.60
+▲ 0.93%	AEIS	Advanced Energy Industries Inc.	59.52	254,100	59.16	60.54
+▼ -0.24%	AMD	Advanced Micro Devices Inc.	29.47	40,745,400	29.00	29.77
+▲ 22.79%	AEHR	Aehr Test Systems	1.67	547,763	1.38	1.67
+▼ -7.69%	AEMD	Aethlon Medical Inc.	0.24	118,000	0.23	0.26
+▲ 3.23%	UAVS	AgEagle Aerial Systems Inc.	0.32	84,100	0.30	0.33
+▼ -3.20%	AGYS	Agilysys Inc.	25.73	120,200	25.64	26.76
+0.00%	AGMH	AGM Group Holdings Inc.	16.96	1,100	16.96	17.00
+▼ -0.66%	AIRG	Airgain Inc.	12.04	21,600	11.945	12.28
+▲ 0.62%	AKAM	Akamai Technologies Inc.	90.58	1,031,900	89.49	90.75
+▼ -1.46%	AKTS	Akoustis Technologies Inc.	7.745	250,200	7.58	7.96
+▼ -1.61%	ALRM	Alarm.com Holdings Inc.	47.11	165,400	46.79	47.89
+▲ 4.78%	ALYA	Alithya Group inc.	2.85	4,100	2.80	2.85
+▼ -4.36%	AMOT	Allied Motion Technologies Inc.	35.98	25,100	35.81	37.80
+▲ 1.26%	ALLT	Allot Communications Ltd.	8.02	92,600	7.92	8.28
+▼ -1.19%	MDRX	Allscripts Healthcare Solutions Inc.	10.76	1,527,200	10.54	10.87
+▼ -3.64%	AOSL	Alpha and Omega Semiconductor Limited	12.43	61,500	12.27	12.88
+▼ -0.29%	GOOGL	Alphabet Inc.	1,242.29	1,158,300	1,231.8199	1,244.67
+▼ -0.41%	GOOG	Alphabet Inc.	1,241.39	1,538,000	1,232.2679	1,245.00
+▲ 0.37%	ALTR	Altair Engineering Inc.	35.34	340,100	34.84	35.69
+▲ 0.76%	AYX	Alteryx Inc. Class A	111.04	1,314,000	108.025	112.19
+▼ -1.71%	AMBA	Ambarella Inc.	62.48	514,295	62.20	63.81
+▲ 0.64%	DOX	Amdocs Limited	66.50	707,000	65.57	66.60
+▼ -2.95%	AMSWA	American Software Inc. Class A Common Stock	15.14	68,900	15.10	15.58
+▲ 31.33%	AMRH	Ameri Holdings Inc.	0.197	10,096,500	0.155	0.219
+▼ -1.20%	AMKR	Amkor Technology Inc.	9.06	365,800	9.02	9.18
+▲ 0.32%	APH	Amphenol Corporation	96.40	1,498,100	95.62	96.91
+▲ 0.38%	ASYS	Amtech Systems Inc.	5.28	20,700	5.23	5.34
+▲ 0.41%	ADI	Analog Devices Inc.	113.14	1,020,500	111.67	113.44
+▲ 2.18%	PLAN	Anaplan Inc.	50.24	1,966,100	48.44	50.64
+▼ -2.37%	ANGI	ANGI Homeservices Inc.	7.01	1,070,500	6.98	7.17
+▲ 2.06%	ANSS	ANSYS Inc.	220.08	373,300	215.94	220.72
+▼ -0.85%	APPF	AppFolio Inc.	93.71	103,200	92.12	95.28
+▼ -4.12%	APPN	Appian Corporation	48.38	561,913	47.295	50.90
+▼ -0.52%	AAPL	Apple Inc.	219.89	18,833,500	218.83	220.94
+▲ 0.42%	AMAT	Applied Materials Inc.	52.15	4,848,600	51.81	52.46
+▼ -4.28%	AAOI	Applied Optoelectronics Inc.	11.195	443,000	11.11	11.85
+▲ 5.91%	ARCE	Arco Platform Limited	50.32	42,712	46.99	50.37
+▲ 1.01%	ANET	Arista Networks Inc.	244.01	377,900	237.83	244.72
+▼ -1.71%	ARLO	Arlo Technologies Inc.	3.44	219,000	3.39	3.48
+▼ -0.27%	ARW	Arrow Electronics Inc.	74.45	915,000	73.73	74.70
+▲ 1.10%	ASX	ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two)	4.59	961,400	4.50	4.62
+0.00%	APWC	Asia Pacific Wire & Cable Corporation Limited	1.81	300	1.81	1.81
+▲ 0.21%	ASML	ASML Holding N.V.	248.04	615,100	246.47	249.64
+▲ 0.61%	AZPN	Aspen Technology Inc.	125.10	363,400	123.71	126.09
+▲ 0.76%	ALOT	AstroNova Inc.	15.91	76,500	15.72	16.65
+▼ -0.29%	ASUR	Asure Software Inc	6.80	101,400	6.59	6.84
+▼ -0.02%	TEAM	Atlassian Corporation Plc	128.18	951,000	125.33	128.91
+▼ -1.60%	ATOM	Atomera Incorporated	3.68	77,740	3.64	3.805
+▼ -2.37%	AUDC	AudioCodes Ltd.	20.20	130,100	20.15	20.59
+▼ -1.01%	AEYE	AudioEye Inc.	3.93	32,900	3.78	3.98
+▼ -3.83%	AUO	AU Optronics Corp American Depositary Shares	2.51	4,562,400	2.47	2.56
+▲ 3.41%	JG	Aurora Mobile Limited	3.64	37,700	3.44	3.69
+▲ 1.11%	ADSK	Autodesk Inc.	149.07	1,058,900	145.72	149.89
+▲ 0.44%	ATHM	Autohome Inc. American Depositary Shares each representing one class A.	91.73	477,300	91.11	92.83
+▲ 8.20%	AUTO	AutoWeb Inc.	2.77	30,900	2.49	2.85
+▼ -1.77%	AVLR	Avalara Inc.	72.64	1,088,800	72.54	75.53
+▲ 0.81%	AVNW	Aviat Networks Inc.	13.77	1,900	13.60	13.99
+▼ -0.83%	AVID	Avid Technology Inc.	5.96	220,500	5.96	6.15
+▼ -0.18%	AVT	Avnet Inc.	44.12	549,200	43.69	44.39
+▼ -2.05%	AVX	AVX Corporation	15.27	133,900	15.26	15.61
+0.00%	AWRE	Aware Inc.	2.91	13,000	2.91	2.95
+▼ -4.66%	ACLS	Axcelis Technologies Inc.	17.79	184,200	17.77	18.82
+▼ -0.54%	AXTI	AXT Inc	3.67	161,900	3.66	3.73
+▼ -1.93%	BMI	Badger Meter Inc.	52.79	116,300	52.70	53.86
+▲ 2.21%	BIDU	Baidu Inc.	105.07	5,730,100	103.51	107.90
+▼ -3.00%	BAND	Bandwidth Inc.	65.73	108,000	65.36	68.06
+▲ 0.17%	BDC	Belden Inc	53.32	190,500	52.62	53.75
+▲ 7.15%	BELFA	Bel Fuse Inc. Class A Common Stock	15.73	1,600	14.65	15.73
+▲ 6.59%	BELFB	Bel Fuse Inc. Class B Common Stock	16.66	88,400	15.57	16.75
+▼ -1.15%	BHE	Benchmark Electronics Inc.	29.26	297,700	29.20	29.68
+▼ -0.76%	BNFT	Benefitfocus Inc.	24.92	187,300	24.58	25.27
+▲ 0.87%	BILI	Bilibili Inc.	15.02	1,813,000	14.81	15.13
+▲ 1.47%	BKTI	BK Technologies Inc.	3.45	3,600	3.45	3.47
+▲ 0.12%	BLKB	Blackbaud Inc.	91.52	149,100	90.61	92.23
+▼ -2.15%	BB	BlackBerry Limited	5.45	14,714,800	5.38	5.62
+▼ -0.10%	BKI	Black Knight Inc.	61.73	269,300	61.36	62.27
+▲ 0.08%	BL	BlackLine Inc.	47.68	275,500	46.49	47.79
+▲ 4.23%	BDR	Blonder Tongue Laboratories Inc.	0.74	2,300	0.65	0.75
+▼ -2.19%	BHAT	Blue Hat Interactive Entertainment Technology - Ordinary Shares	3.57	156,900	3.38	3.71
+▲ 0.82%	BNSO	Bonso Electronics International Inc.	2.45	600	2.33	2.45
+0.00%	BRQS	Borqs Technologies Inc.	1.80	0	1.80	1.80
+▼ -0.50%	EPAY	Bottomline Technologies Inc.	40.01	243,700	39.23	40.31
+▼ -0.64%	BOX	Box Inc. Class A	17.05	823,000	17.00	17.39
+▲ 1.59%	BOXL	Boxlight Corporation	1.92	21,800	1.85	1.92
+▼ -2.01%	BLIN	Bridgeline Digital Inc.	1.95	22,100	1.95	1.99
+▼ -0.66%	BCOV	Brightcove Inc.	10.49	130,800	10.44	10.67
+▲ 0.41%	AVGO	Broadcom Inc.	276.91	2,747,700	272.68	278.66
+▼ -7.14%	BVSN	BroadVision Inc.	1.30	1,000	1.30	1.39
+▲ 0.08%	BRKS	Brooks Automation Inc.	37.72	214,800	37.43	38.12
+▲ 1.67%	BSQR	BSQUARE Corporation	1.22	2,200	1.18	1.22
+▼ -2.43%	CCMP	Cabot Microelectronics Corporation	140.76	223,700	140.35	144.51
+▲ 1.10%	CACI	CACI International Inc. Class A	233.85	192,000	230.40	234.42
+▲ 0.68%	CDNS	Cadence Design Systems Inc.	66.58	1,029,700	65.84	66.83
+▼ -0.25%	CAMP	CalAmp Corp.	11.74	671,900	11.46	12.00
+▲ 0.79%	CALX	Calix Inc	6.34	206,400	6.23	6.39
+▼ -2.11%	CMBM	Cambium Networks Corporation	9.75	17,500	9.505	9.96
+▼ -0.29%	CAMT	Camtek Ltd.	10.22	218,600	10.11	10.36
+▼ -6.64%	CSIQ	Canadian Solar Inc.	19.98	1,078,800	19.70	21.39
+0.00%	CANG	Cango Inc. American Depositary Shares each representing two (2) Class A	5.40	100	5.40	5.40
+▼ -0.08%	CBLK	Carbon Black Inc.	25.97	2,046,100	25.955	26.00
+▼ -0.39%	CARB	Carbonite Inc.	15.35	257,700	15.03	15.40
+▲ 0.03%	CDLX	Cardlytics Inc.	33.27	432,500	32.47	34.20
+▼ -2.86%	CRCM	Care.com Inc.	10.18	349,000	10.14	10.46
+▲ 1.76%	CARG	CarGurus Inc.	30.60	1,065,600	29.66	30.64
+▲ 1.14%	CASA	Casa Systems Inc.	7.555	285,300	7.26	7.678
+▲ 4.29%	CSLT	Castlight Health Inc. Class B	1.46	870,400	1.39	1.47
+▼ -0.45%	CDK	CDK Global Inc.	48.33	887,500	48.17	48.74
+▲ 1.55%	CDW	CDW Corporation	123.40	1,754,100	120.13	124.34
+▲ 1.37%	CLS	Celestica Inc.	7.42	166,300	7.29	7.43
+▼ -2.23%	CRNT	Ceragon Networks Ltd.	2.63	448,000	2.59	2.72
+▲ 0.02%	CDAY	Ceridian HCM Holding Inc.	50.31	450,300	49.49	50.61
+▲ 0.19%	CERN	Cerner Corporation	68.36	1,361,700	67.49	68.97
+▼ -1.81%	CEVA	CEVA Inc.	30.35	78,600	30.21	30.83
+▲ 0.40%	GIB	CGI Group Inc.	78.65	197,000	78.19	79.18
+▼ -1.51%	CHNG	Change Healthcare Inc - Ordinary Shares	12.37	1,331,700	12.26	12.92
+▲ 0.53%	CYOU	Changyou.com Limited	9.48	147,300	9.44	9.56
+0.00%	ECOM	ChannelAdvisor Corporation	9.25	72,000	9.17	9.33
+▲ 1.27%	CHKP	Check Point Software Technologies Ltd.	109.12	706,800	107.71	109.48
+▲ 3.11%	CMCM	Cheetah Mobile Inc. American Depositary Shares each representing 10 Class	3.65	279,300	3.53	3.68
+▼ -3.33%	CIH	China Index Holdings Limited	4.35	2,354,300	4.20	4.80
+▼ -0.33%	IMOS	ChipMOS TECHNOLOGIES INC.	21.35	4,900	21.35	21.59
+▼ -2.37%	CIEN	Ciena Corporation	39.19	2,294,100	38.84	40.12
+▼ -1.02%	CRUS	Cirrus Logic Inc.	54.17	229,600	53.92	54.82
+▼ -1.57%	CSCO	Cisco Systems Inc.	48.83	20,172,900	48.26	49.49
+▼ -0.53%	CISN	Cision Ltd.	7.47	298,153	7.30	7.59
+▼ -0.14%	CTXS	Citrix Systems Inc.	95.84	1,698,300	95.62	96.59
+▼ -1.38%	CLFD	Clearfield Inc.	12.18	16,700	12.12	12.45
+0.00%	CLRO	ClearOne Inc.	1.89	600	1.89	1.93
+▼ -1.43%	CLDR	Cloudera Inc.	8.96	3,187,030	8.89	9.12
+▼ -3.08%	CLPS	CLPS Incorporation	5.04	10,600	4.96	5.173
+▲ 0.19%	CGNX	Cognex Corporation	48.13	547,300	47.78	48.40
+▼ -0.88%	CTSH	Cognizant Technology Solutions Corporation	59.66	2,521,500	59.03	60.19
+▼ -0.23%	COHR	Coherent Inc.	151.21	181,300	149.51	152.22
+▼ -4.73%	COHU	Cohu Inc.	13.71	257,700	13.69	14.42
+▼ -3.31%	COMM	CommScope Holding Company Inc.	11.53	2,905,300	11.355	11.92
+▲ 0.60%	JCS	Communications Systems Inc.	5.03	10,600	4.90	5.05
+▼ -1.66%	CVLT	Commvault Systems Inc.	44.46	291,700	44.30	45.24
+▼ -1.99%	CPSI	Computer Programs and Systems Inc.	23.09	122,500	22.91	23.82
+▲ 1.23%	CTG	Computer Task Group Incorporated	4.93	15,800	4.82	4.93
+▼ -2.92%	CMTL	Comtech Telecommunications Corp.	33.95	496,300	33.82	36.61
+▼ -12.00%	AWSM	Cool Holdings Inc.	1.32	1,634,500	1.18	1.65
+▲ 1.63%	CTK	CooTek (Cayman) Inc. American Depositary Shares each representing 50 Class A	5.00	28,300	4.85	5.00
+▲ 0.71%	CSOD	Cornerstone OnDemand Inc.	55.55	478,400	54.84	55.94
+▼ -0.11%	GLW	Corning Incorporated	28.23	2,724,200	27.91	28.34
+▼ -2.36%	CPAH	CounterPath Corporation	1.24	5,200	1.21	1.25
+▼ -1.21%	COUP	Coupa Software Incorporated	135.06	1,417,000	133.275	138.59
+▼ -0.84%	CVET	Covetrus Inc.	11.80	1,737,400	11.46	11.90
+▲ 3.00%	CPSH	CPS Technologies Corp.	1.03	4,200	1.03	1.05
+▲ 0.56%	CREX	Creative Realities Inc.	1.79	5,600	1.75	1.85
+▼ -2.45%	CREE	Cree Inc.	49.04	1,144,400	49.01	50.50
+▼ -0.26%	CRTO	Criteo S.A.	19.39	209,600	18.98	19.50
+▼ -6.00%	CRWD	CrowdStrike Holdings Inc.	58.30	2,885,100	57.66	62.36
+▲ 0.04%	CSGS	CSG Systems International Inc.	51.80	206,100	51.25	52.24
+▲ 2.03%	CSPI	CSP Inc.	13.07	300	13.07	13.07
+▼ -1.40%	CTS	CTS Corporation	32.44	79,700	32.21	32.82
+▼ -11.11%	CUI	CUI Global Inc.	0.80	25,000	0.80	0.90
+▼ -0.48%	CYBR	CyberArk Software Ltd.	100.84	322,100	100.115	102.20
+▲ 0.34%	CYBE	CyberOptics Corporation	14.58	13,100	14.04	14.59
+▼ -0.04%	CY	Cypress Semiconductor Corporation	23.21	2,177,100	23.21	23.25
+▼ -1.18%	CYRN	CYREN Ltd.	1.67	47,600	1.67	1.72
+▼ -1.06%	DAKT	Daktronics Inc.	7.49	84,600	7.48	7.59
+▼ -3.06%	DQ	DAQO New Energy Corp. American Depositary Shares each representing five	46.30	106,700	46.02	47.93
+▼ -4.49%	DZSI	DASAN Zhone Solutions Inc.	9.57	56,900	9.56	10.13
+▲ 1.32%	DAIO	Data I/O Corporation	3.85	19,200	3.83	3.92
+▼ -2.96%	DELL	Dell Technologies Inc. Class C	52.15	3,072,100	51.32	53.00
+0.00%	DSWL	Deswell Industries Inc.	2.62	100	2.62	2.62
+▼ -4.98%	DBD	Diebold Nixdorf Incorporated	11.44	936,100	11.31	12.00
+▼ -0.94%	DGII	Digi International Inc.	13.72	48,800	13.59	13.83
+▼ -1.45%	DMRC	Digimarc Corporation	41.54	59,900	41.32	43.13
+▼ -1.47%	APPS	Digital Turbine Inc.	6.69	1,074,300	6.54	6.93
+▲ 0.30%	DIOD	Diodes Incorporated	39.97	285,700	39.44	40.10
+▼ -0.35%	DOCU	DocuSign Inc.	62.39	1,825,100	61.54	62.70
+▲ 10.26%	DLPN	Dolphin Entertainment Inc.	0.86	13,900	0.77	0.86
+▼ -2.40%	DOMO	Domo Inc.	16.475	471,500	16.20	16.83
+▼ -1.60%	DOYU	DouYu International Holdings Ltd - ADR	8.61	724,800	8.61	8.89
+▼ -0.88%	DPW	DPW Holdings Inc.	2.24	66,300	2.19	2.28
+▲ 1.62%	DBX	Dropbox Inc	20.07	4,352,800	19.95	20.89
+0.00%	DCAR	DropCar Inc.	0.75	8,500	0.73	0.78
+▼ -1.24%	DSPG	DSP Group Inc.	14.32	42,100	14.24	14.63
+▼ -4.30%	DXC	DXC Technology Company	29.61	5,194,400	29.17	30.14
+▼ -4.11%	DT	Dynatrace Inc - Ordinary Shares	20.04	853,300	19.90	20.965
+▼ -0.89%	EBIX	Ebix Inc.	43.43	217,500	43.21	44.02
+▼ -0.22%	SATS	EchoStar Corporation	40.22	391,500	39.81	40.30
+▼ -1.09%	EGAN	eGain Corporation	8.18	103,400	8.13	8.31
+▼ -0.08%	ESTC	Elastic N.V.	84.97	1,227,400	83.15	85.38
+▼ -1.03%	EA	Electronic Arts Inc.	96.62	1,954,200	95.66	97.97
+▲ 2.39%	ELSE	Electro-Sensors Inc.	3.85	1,200	3.84	3.85
+▼ -6.03%	ELTK	Eltek Ltd.	3.43	53,200	3.40	3.88
+▲ 5.41%	EMAN	eMagin Corporation	0.39	23,900	0.36	0.39
+▲ 0.66%	EMKR	EMCORE Corporation	3.06	27,600	3.00	3.09
+0.00%	MSN	Emerson Radio Corporation	1.02	0	1.02	1.02
+▼ -1.78%	WIRE	Encore Wire Corporation	56.80	98,500	55.93	57.83
+▲ 2.98%	DAVA	Endava plc American Depositary Shares (each representing one Class A)	39.75	125,600	38.19	39.90
+▼ -1.90%	EIGI	Endurance International Group Holdings Inc.	3.865	571,600	3.80	3.98
+▲ 2.87%	ENR	Energizer Holdings Inc.	44.10	1,082,400	42.62	44.30
+▼ -5.96%	WATT	Energous Corporation	3.47	247,900	3.47	3.69
+▲ 0.18%	ENS	Enersys	67.25	245,900	66.53	67.55
+▼ -7.46%	ENPH	Enphase Energy Inc.	23.19	4,683,400	23.06	25.50
+▼ -0.21%	ENTG	Entegris Inc.	47.69	634,600	47.34	48.09
+▼ -1.42%	ENV	Envestnet Inc	57.60	232,300	57.21	58.74
+▲ 2.68%	EVSI	Envision Solar International Inc.	5.75	23,300	5.50	5.75
+▼ -0.10%	EPAM	EPAM Systems Inc.	183.64	191,700	182.51	184.88
+▼ -1.55%	PLUS	ePlus inc.	76.62	47,700	76.48	78.19
+▼ -2.55%	ERIC	Ericsson	8.01	6,120,500	7.94	8.05
+▼ -2.37%	ESE	ESCO Technologies Inc.	77.14	70,000	76.88	79.15
+▲ 0.21%	ESP	Espey Mfg. & Electronics Corp.	23.55	5,900	23.25	23.98
+▲ 0.46%	EB	Eventbrite Inc. Class A	17.48	351,500	17.29	17.64
+▼ -0.94%	EVBG	Everbridge Inc.	64.26	367,400	63.88	65.62
+▼ -0.40%	EVER	EverQuote Inc.	22.41	174,200	21.80	22.83
+▼ -0.49%	MRAM	Everspin Technologies Inc.	6.10	52,200	5.91	6.234
+▲ 0.06%	EVTC	Evertec Inc.	31.77	300,300	31.52	32.00
+▼ -6.77%	EVH	Evolent Health Inc Class A	7.58	1,510,600	7.32	8.15
+▲ 5.62%	EVOL	Evolving Systems Inc.	0.94	14,700	0.83	0.94
+▼ -2.34%	EVOP	EVO Payments Inc.	28.42	388,800	28.33	29.42
+▼ -4.20%	XELA	Exela Technologies Inc.	1.14	89,237	1.14	1.21
+▲ 3.41%	EXFO	EXFO Inc	3.94	4,500	3.74	3.94
+▼ -2.35%	EXTR	Extreme Networks Inc.	7.49	668,800	7.42	7.69
+▼ -0.31%	FFIV	F5 Networks Inc.	139.74	322,900	138.03	140.09
+▼ -0.65%	FN	Fabrinet	53.15	240,000	52.76	53.68
+▼ -1.47%	FB	Facebook Inc.	180.11	16,083,300	177.67	181.40
+▲ 1.32%	FICO	Fair Isaac Corproation	317.59	198,200	313.40	320.83
+▼ -1.42%	SFUN	Fang Holdings Limited American Depositary Shares (Each representing Four Class A HK$1.00 par value)	2.09	186,000	2.08	2.25
+▼ -4.05%	FARO	FARO Technologies Inc.	49.70	54,300	49.60	51.83
+▼ -8.07%	FSLY	Fastly Inc. Class A	24.39	1,366,000	24.27	26.306
+▼ -0.97%	FNJN	Finjan Holdings Inc.	2.04	10,900	2.02	2.09
+▼ -0.66%	FEYE	FireEye Inc.	13.45	1,732,100	13.385	13.69
+▼ -6.80%	FSLR	First Solar Inc.	62.54	2,314,500	62.26	66.94
+▼ -3.28%	FIT	Fitbit Inc. Class A	3.83	3,493,500	3.80	3.98
+▲ 0.29%	FIVN	Five9 Inc.	56.14	284,500	55.14	56.98
+▼ -0.19%	FLEX	Flex Ltd.	10.50	3,205,400	10.41	10.55
+▼ -1.83%	FLIR	FLIR Systems Inc.	53.54	1,213,000	53.49	54.59
+▲ 0.56%	FSCT	ForeScout Technologies Inc.	37.49	240,200	36.48	37.56
+▼ -8.33%	FRSX	Foresight Autonomous Holdings Ltd.	1.32	79,000	1.221	1.49
+▼ -1.71%	FORM	FormFactor Inc.	18.98	252,500	18.94	19.45
+▼ -2.65%	FORTY	Formula Systems (1985) Ltd. ADS represents 1 ordinary shares	61.27	300	61.27	61.27
+▼ -0.54%	FTNT	Fortinet Inc.	78.86	775,700	78.51	79.65
+▲ 0.21%	FTV	Fortive Corporation	67.98	2,472,000	67.28	68.83
+▼ -1.22%	FEIM	Frequency Electronics Inc.	11.32	4,100	11.18	11.60
+0.00%	FTEO	FRONTEO Inc.	5.16	0	5.16	5.16
+▼ -17.40%	FTNW	FTE Networks Inc.	0.413	52,300	0.40	0.50
+▲ 0.18%	GRMN	Garmin Ltd.	84.36	734,400	83.68	84.64
+▲ 0.28%	IT	Gartner Inc.	143.89	578,900	141.80	144.50
+▼ -0.89%	GDS	GDS Holdings Limited	42.14	697,900	42.08	42.87
+▼ -3.52%	GIGM	GigaMedia Limited	2.47	4,700	2.47	2.59
+▲ 0.24%	GILT	Gilat Satellite Networks Ltd.	8.37	7,600	8.36	8.45
+▼ -0.34%	GSB	GlobalSCAPE Inc.	11.86	28,100	11.67	12.05
+▲ 2.59%	GLOB	Globant S.A.	93.04	206,800	90.49	93.16
+▲ 1.00%	GLUU	Glu Mobile Inc.	5.07	1,676,700	4.92	5.11
+▼ -0.90%	GDDY	GoDaddy Inc. Class A	65.95	1,158,700	64.87	66.63
+▲ 1.30%	GPRO	GoPro Inc.	4.68	2,595,500	4.62	4.79
+▲ 5.91%	GRVY	GRAVITY Co. Ltd.	33.33	49,600	31.92	34.57
+▼ -4.61%	GSKY	GreenSky Inc.	6.42	937,100	6.40	6.83
+▼ -6.04%	GSUM	Gridsum Holding Inc.	1.71	27,800	1.71	1.85
+▼ -3.93%	GRPN	Groupon Inc.	2.69	4,096,000	2.67	2.84
+▼ -0.78%	GRUB	GrubHub Inc.	55.93	2,287,200	53.24	56.40
+▲ 4.65%	GVP	GSE Systems Inc.	1.80	8,500	1.72	1.80
+▲ 0.11%	GSIT	GSI Technology Inc.	8.71	16,000	8.64	8.80
+▼ -2.63%	GWRE	Guidewire Software Inc.	104.55	782,500	103.56	107.44
+▼ -0.96%	HBB	Hamilton Beach Brands Holding Company Class A	15.55	54,600	15.08	15.82
+▼ -3.29%	HLIT	Harmonic Inc.	6.46	343,600	6.39	6.74
+▼ -6.08%	HCAT	Health Catalyst Inc - Ordinary Shares	31.65	237,000	31.54	33.775
+▼ -2.12%	HQY	HealthEquity Inc.	56.40	592,500	55.18	57.99
+▼ -1.80%	HSTM	HealthStream Inc.	26.18	101,800	25.73	26.75
+▲ 0.27%	HPE	Hewlett Packard Enterprise Company	14.63	6,972,100	14.35	14.70
+0.00%	HPJ	Highpower International Inc	4.70	68,500	4.67	4.70
+▼ -0.90%	HIMX	Himax Technologies Inc.	2.19	310,400	2.19	2.25
+▲ 0.05%	HPQ	HP Inc.	18.42	11,331,800	18.25	18.49
+▼ -0.87%	HMI	Huami Corporation American Depositary Shares each representing four Class A	10.26	48,400	10.20	10.34
+▼ -0.40%	HUBB	Hubbell Inc	133.07	199,600	132.76	134.12
+▲ 0.64%	HUBS	HubSpot Inc.	154.21	400,600	151.345	155.47
+▲ 0.03%	HURC	Hurco Companies Inc.	32.17	16,300	31.63	32.49
+▼ -2.28%	IIIV	i3 Verticals Inc.	19.74	133,600	19.53	20.20
+▲ 0.63%	IAC	IAC/InterActiveCorp	221.88	1,012,500	218.80	223.16
+▼ -3.78%	ICAD	icad inc.	7.39	144,600	7.33	7.90
+▼ -0.04%	ICHR	Ichor Holdings	25.13	136,600	24.97	25.65
+▲ 1.32%	IDEX	Ideanomics Inc.	1.53	326,200	1.47	1.57
+▲ 2.97%	INVE	Identiv Inc.	5.20	14,600	5.04	5.20
+▼ -0.90%	IDSY	I.D. Systems Inc.	5.52	13,300	5.48	5.85
+▲ 0.14%	IEC	IEC Electronics Corp.	7.01	4,200	7.00	7.01
+▲ 3.12%	IIVI	II-VI Incorporated	37.39	2,078,900	36.06	37.67
+▲ 5.26%	ISNS	Image Sensing Systems Inc.	4.80	500	4.80	4.80
+▼ -3.70%	IMMR	Immersion Corporation	7.80	101,700	7.79	8.06
+▲ 0.06%	PI	Impinj Inc.	31.94	140,500	31.237	32.51
+▼ -0.91%	INFN	Infinera Corporation	5.46	1,830,700	5.38	5.56
+▲ 0.63%	INFY	Infosys Limited American Depositary Shares	11.13	9,697,400	11.00	11.17
+0.00%	INOD	Innodata Inc.	1.33	2,700	1.33	1.36
+▼ -2.12%	INOV	Inovalon Holdings Inc.	16.385	282,300	16.23	16.97
+▲ 1.21%	IPHI	Inphi Corporation $0.001 par value	61.66	646,600	59.94	61.81
+▼ -2.36%	INPX	Inpixon	0.124	1,498,700	0.119	0.13
+0.00%	INSG	Inseego Corp.	5.03	602,600	5.00	5.12
+▼ -0.51%	NSIT	Insight Enterprises Inc.	54.82	171,400	54.24	55.10
+▲ 1.10%	INST	Instructure Inc.	38.72	483,200	38.11	38.84
+▼ -1.66%	IMTE	Integrated Media Technology Limited	7.13	7,700	6.93	7.46
+▼ -0.20%	INTC	Intel Corporation	50.92	11,351,800	50.34	51.15
+▲ 2.08%	IDN	Intellicheck Inc.	4.90	10,300	4.75	4.95
+▼ -4.91%	INS	Intelligent Systems Corporation	41.85	92,700	41.85	45.20
+▲ 1.70%	INAP	Internap Corporation	2.39	103,300	2.31	2.40
+▲ 0.27%	IBM	International Business Machines Corporation	143.55	2,309,800	141.41	143.88
+▲ 0.54%	INXN	InterXion Holding N.V. (0.01 nominal value)	80.41	315,600	79.56	80.53
+▲ 2.88%	INTT	inTest Corporation	4.64	10,300	4.50	4.64
+▼ -1.51%	IVAC	Intevac Inc.	5.22	38,000	5.21	5.44
+▼ -3.73%	IIN	IntriCon Corporation	20.38	86,800	20.38	21.28
+▲ 1.23%	INTU	Intuit Inc.	269.72	1,182,300	266.42	270.63
+▼ -0.10%	IPGP	IPG Photonics Corporation	134.08	227,100	132.27	134.53
+▼ -2.31%	IQ	iQIYI Inc.	17.32	3,789,000	17.05	17.80
+▲ 1.20%	IRBT	iRobot Corporation	59.71	1,237,000	58.00	59.81
+▲ 3.49%	ISDR	Issuer Direct Corporation	10.96	30,600	9.96	10.97
+▼ -1.18%	ITI	Iteris Inc.	5.84	120,700	5.77	5.93
+▼ -2.02%	ITRI	Itron Inc.	73.86	231,500	73.32	75.93
+▼ -2.45%	ITRN	Ituran Location and Control Ltd.	25.49	32,800	25.26	26.16
+▼ -0.74%	IZEA	IZEA Inc.	0.269	166,600	0.26	0.284
+▲ 1.07%	JCOM	j2 Global Inc.	90.32	322,600	89.10	90.57
+▼ -0.20%	JBL	Jabil Inc.	35.36	2,982,400	34.80	35.86
+▼ -0.74%	JFIN	Jiayin Group Inc.	14.77	40,300	13.884	15.95
+▼ -6.75%	JKS	JinkoSolar Holding Company Limited American Depositary Shares (each representing 4)	17.97	1,403,300	17.71	19.30
+▼ -0.12%	JNPR	Juniper Networks Inc.	24.75	3,280,400	24.19	24.86
+▼ -2.83%	KEM	KEMET Corporation	18.86	1,012,600	18.81	19.56
+▼ -0.32%	KEYS	Keysight Technologies Inc.	99.28	805,900	97.58	99.82
+▲ 2.59%	KTCC	Key Tronic Corporation	5.94	9,400	5.66	5.94
+▼ -1.06%	KE	Kimball Electronics Inc.	14.97	53,500	14.97	15.33
+▲ 0.85%	KLAC	KLA-Tencor Corporation	161.95	1,268,400	159.94	162.68
+▼ -2.92%	KN	Knowles Corporation	20.62	1,058,500	20.61	21.25
+▲ 1.43%	KOPN	Kopin Corporation	0.71	450,800	0.69	0.73
+▲ 1.00%	KOSS	Koss Corporation	2.03	18,300	2.03	2.10
+▼ -1.58%	KLIC	Kulicke and Soffa Industries Inc.	23.62	211,600	23.49	23.86
+▼ -1.01%	KVHI	KVH Industries Inc.	10.80	25,500	10.73	10.92
+▲ 0.29%	LHX	L3Harris Technologies Inc.	213.22	1,113,100	212.70	214.62
+▲ 0.51%	LRCX	Lam Research Corporation	242.83	1,668,400	241.10	244.98
+0.00%	LTRX	Lantronix Inc.	3.37	45,400	3.31	3.40
+▼ -2.77%	LSCC	Lattice Semiconductor Corporation	19.32	1,003,200	19.05	19.97
+▼ -3.89%	LEAF	Leaf Group Ltd.	4.20	53,400	4.20	4.45
+▲ 0.10%	LDOS	Leidos Holdings Inc.	87.13	758,100	86.23	87.44
+▼ -2.85%	LPL	LG Display Co Ltd AMERICAN DEPOSITORY SHARES	5.80	215,300	5.79	5.89
+▲ 2.94%	LGL	LGL Group Inc. (The)	10.51	10,600	9.90	10.51
+▼ -0.11%	LTRPA	Liberty TripAdvisor Holdings Inc. Series A Common Stock	9.16	388,600	8.94	9.18
+0.00%	LTRPB	Liberty TripAdvisor Holdings Inc. Series B Common Stock	9.167	0	9.167	9.167
+▲ 6.02%	LPTH	LightPath Technologies Inc.	0.88	127,100	0.83	0.89
+▼ -3.18%	LLNW	Limelight Networks Inc.	3.04	619,800	3.02	3.14
+▲ 1.44%	LN	LINE Corporation American Depositary Shares (each representing one share of)	37.40	84,800	37.25	37.44
+▲ 1.54%	LINX	Linx S.A. American Depositary Shares each representing one	7.92	132,600	7.85	7.97
+▼ -1.79%	LFUS	Littelfuse Inc.	176.76	88,800	175.56	180.41
+▼ -0.65%	LPSN	LivePerson Inc.	36.70	429,800	36.01	37.18
+▼ -1.27%	RAMP	LiveRamp Holdings Inc.	45.96	433,300	45.80	46.95
+▼ -0.05%	LOGI	Logitech International S.A.	40.08	225,900	39.69	40.17
+▼ -0.56%	LOGM	LogMeIn Inc.	70.75	242,000	70.15	71.34
+▲ 1.22%	LORL	Loral Space and Communications Inc.	42.42	45,700	41.59	42.58
+▲ 0.31%	LRAD	LRAD Corporation	3.25	170,500	3.17	3.27
+▼ -2.20%	LYTS	LSI Industries Inc.	4.89	37,200	4.89	5.17
+▼ -0.82%	LITE	Lumentum Holdings Inc.	55.89	728,700	55.10	56.40
+▼ -3.83%	LUNA	Luna Innovations Incorporated	6.02	205,100	5.97	6.27
+▲ 0.17%	LKCO	Luokung Technology Corp	6.06	535,800	5.93	6.18
+▲ 0.29%	LYFT	Lyft Inc.	41.90	5,504,000	40.67	42.137
+▲ 1.50%	MTSI	MACOM Technology Solutions Holdings Inc.	23.05	337,200	22.57	23.13
+▼ -0.89%	MGIC	Magic Software Enterprises Ltd.	8.93	25,500	8.91	9.06
+▼ -2.07%	MX	MagnaChip Semiconductor Corporation	10.43	77,900	10.34	10.70
+▲ 0.36%	MJCO	Majesco	8.36	12,400	8.30	8.70
+▼ -0.08%	MAMS	MAM Software Group Inc.	12.07	15,100	12.07	12.08
+▲ 0.96%	MANH	Manhattan Associates Inc.	82.43	309,000	80.94	82.76
+▲ 0.64%	MANT	ManTech International Corporation	70.93	139,800	69.83	71.23
+0.00%	MRIN	Marin Software Incorporated	2.56	3,800	2.56	2.66
+▲ 0.28%	MRVL	Marvell Technology Group Ltd.	24.99	5,347,900	24.55	25.13
+0.00%	MTCH	Match Group Inc.	71.44	1,905,600	69.535	72.15
+▲ 2.14%	MTLS	Materialise NV	19.13	59,100	18.38	19.38
+▼ -3.60%	MAXR	Maxar Technologies Ltd.	7.77	1,764,500	7.66	8.04
+▼ -0.65%	MXIM	Maxim Integrated Products Inc.	58.36	925,400	58.15	58.99
+▲ 1.35%	MXL	MaxLinear Inc.	22.50	677,500	22.13	22.82
+▼ -3.78%	MDLA	Medallia Inc - Ordinary Shares	29.50	2,011,800	28.58	30.94
+▼ -0.50%	MTBC	Medical Transcription Billing Corp.	3.99	25,300	3.949	4.12
+▼ -0.08%	MDSO	Medidata Solutions Inc.	91.40	662,400	91.35	91.51
+▼ -0.46%	MLNX	Mellanox Technologies Ltd.	111.40	255,500	111.31	112.41
+▼ -1.25%	MLAB	Mesa Laboratories Inc.	231.93	50,100	225.15	235.13
+▲ 1.29%	MEI	Methode Electronics Inc.	34.46	185,000	33.72	34.57
+▼ -0.69%	MCHP	Microchip Technology Incorporated	92.37	2,517,700	91.36	93.13
+▲ 0.87%	MFGP	Micro Focus Intl PLC ADS each representing One Ord Sh	13.85	307,200	13.71	13.87
+▼ -1.76%	MU	Micron Technology Inc.	48.60	33,341,000	48.13	49.74
+▲ 0.13%	MSFT	Microsoft Corporation	139.54	17,456,600	138.44	140.18
+▼ -0.13%	MSTR	MicroStrategy Incorporated	149.37	37,900	147.72	151.58
+0.00%	MVIS	Microvision Inc.	0.59	232,700	0.56	0.60
+▲ 0.93%	MIME	Mimecast Limited	36.395	681,900	36.13	36.95
+▼ -0.42%	MNDO	MIND C.T.I. Ltd.	2.35	14,500	2.35	2.37
+▼ -1.23%	MIND	Mitcham Industries Inc.	3.21	4,400	3.17	3.30
+▼ -0.93%	MITK	Mitek Systems Inc.	9.63	174,200	9.55	9.75
+▲ 2.64%	MIXT	MiX Telematics Limited American Depositary Shares each representing 25	14.40	41,500	14.03	14.46
+▼ -1.19%	MKSI	MKS Instruments Inc.	94.04	305,800	93.88	95.52
+▲ 2.56%	MTC	MMTec Inc.	2.80	60,600	2.64	2.852
+▼ -3.41%	MOBL	MobileIron Inc.	6.79	526,100	6.76	7.02
+▼ -1.06%	MODN	Model N Inc.	27.98	203,900	27.62	28.40
+▲ 8.24%	MWK	Mohawk Group Holdings Inc.	7.75	35,200	7.125	7.88
+▼ -0.75%	MOMO	Momo Inc.	33.14	1,142,100	32.631	33.54
+▲ 1.33%	MDB	MongoDB Inc.	126.66	1,578,900	121.82	127.94
+▲ 0.16%	MPWR	Monolithic Power Systems Inc.	160.22	216,700	158.69	161.54
+0.00%	TYPE	Monotype Imaging Holdings Inc.	19.81	499,200	19.79	19.81
+▲ 4.17%	MOSY	MoSys Inc.	2.50	206,300	2.28	2.53
+▲ 0.44%	MSI	Motorola Solutions Inc.	172.37	766,900	170.96	172.75
+▼ -4.66%	MOXC	Moxian Inc.	1.84	11,572	1.83	1.97
+▼ -0.74%	MTSC	MTS Systems Corporation	55.24	82,000	54.65	55.70
+▲ 3.59%	MYSZ	My Size Inc.	0.49	61,700	0.462	0.50
+▲ 10.81%	NNDM	Nano Dimension Ltd.	0.41	1,193,500	0.378	0.43
+▼ -0.40%	NANO	Nanometrics Incorporated	32.64	114,000	32.22	32.79
+▼ -13.56%	NH	NantHealth Inc.	0.65	175,800	0.65	0.79
+▼ -0.33%	NATI	National Instruments Corporation	41.95	428,900	41.80	42.17
+▼ -0.66%	NCR	NCR Corporation	31.65	1,116,400	31.54	32.00
+▲ 4.59%	NEON	Neonode Inc.	2.28	4,600	2.28	2.34
+▼ -2.42%	NPTN	NeoPhotonics Corporation	6.06	532,800	5.94	6.27
+▼ -0.22%	NTAP	NetApp Inc.	53.69	1,686,100	52.88	54.13
+▲ 3.03%	NTES	NetEase Inc.	273.35	533,900	265.00	275.44
+▼ -1.62%	NETE	Net Element Inc.	4.87	10,700	4.71	5.14
+▲ 0.60%	NTGR	NETGEAR Inc.	31.83	341,100	31.25	32.10
+▼ -2.37%	NTCT	NetScout Systems Inc.	23.02	203,200	23.01	23.54
+▲ 1.33%	NTWK	NETSOL Technologies Inc.	5.34	16,200	5.26	5.47
+▲ 1.67%	NTIP	Network-1 Technologies Inc.	2.44	700	2.42	2.44
+▲ 0.64%	NEWR	New Relic Inc.	64.39	875,300	63.19	64.90
+▼ -3.12%	NXGN	NextGen Healthcare Inc.	15.54	192,100	15.28	16.08
+▼ -0.43%	NICE	NICE Ltd	144.46	210,700	143.96	146.42
+▼ -1.90%	EGOV	NIC Inc.	20.68	234,200	20.66	21.11
+▼ -0.26%	LASR	nLIGHT Inc.	15.26	194,000	14.885	15.29
+▼ -1.58%	NOK	Nokia Corporation Sponsored American Depositary Shares	4.99	15,995,500	4.97	5.05
+▲ 3.05%	NSYS	Nortech Systems Incorporated	3.04	300	3.04	3.04
+▲ 1.30%	NVMI	Nova Measuring Instruments Ltd.	32.01	137,600	31.69	32.32
+▼ -2.18%	NOVT	Novanta Inc.	81.80	126,100	81.48	83.88
+▼ -1.10%	NUAN	Nuance Communications Inc.	16.23	1,918,000	16.09	16.45
+▼ -0.63%	NTNX	Nutanix Inc.	26.035	2,088,400	25.84	26.40
+▼ -0.57%	NVEC	NVE Corporation	67.71	18,300	66.72	69.18
+▼ -0.59%	NVT	nVent Electric plc	21.76	1,162,800	21.62	21.88
+▼ -0.50%	NVDA	NVIDIA Corporation	177.34	5,864,100	175.29	178.19
+▲ 0.18%	NXPI	NXP Semiconductors N.V.	108.41	3,239,700	107.84	109.82
+0.00%	OIIM	O2Micro International Limited	1.37	700	1.35	1.37
+▼ -0.55%	OKTA	Okta Inc.	102.11	1,696,500	102.005	104.37
+▼ -1.20%	OMCL	Omnicell Inc.	73.11	233,400	72.84	74.57
+▼ -0.76%	OSPN	OneSpan Inc.	14.31	87,500	14.09	14.43
+▲ 4.59%	OSS	One Stop Systems Inc.	2.96	55,200	2.80	2.99
+▼ -0.52%	ON	ON Semiconductor Corporation	19.10	2,804,700	18.95	19.27
+▼ -0.12%	OTEX	Open Text Corporation	40.88	311,600	40.50	41.11
+▼ -2.88%	OPRA	Opera Limited	10.13	169,800	9.91	10.41
+0.00%	OCC	Optical Cable Corporation	3.38	6,900	3.38	3.49
+▼ -2.75%	OPRX	OptimizeRx Corporation	15.19	122,500	14.74	15.67
+▲ 0.22%	ORCL	Oracle Corporation	53.96	13,324,300	53.47	54.33
+▲ 2.95%	OESX	Orion Energy Systems Inc.	2.79	116,200	2.63	2.79
+▼ -1.63%	OSIS	OSI Systems Inc.	104.06	115,900	103.92	105.89
+▲ 4.05%	PD	PagerDuty Inc.	29.29	905,200	27.86	29.87
+▲ 1.85%	PAGS	PagSeguro Digital Ltd. Class A	47.91	1,143,700	46.15	48.185
+▼ -1.22%	PANW	Palo Alto Networks Inc.	208.79	744,000	207.15	212.10
+▼ -1.62%	PCYG	Park City Group Inc.	6.07	16,700	6.06	6.39
+▼ -4.61%	PAR	PAR Technology Corporation	23.58	180,300	23.31	24.62
+▲ 0.49%	PAYC	Paycom Software Inc.	212.30	274,588	208.21	213.2625
+▼ -0.37%	PCTY	Paylocity Holding Corporation	98.35	275,300	97.21	99.195
+▼ -0.05%	CNXN	PC Connection Inc.	38.31	65,700	37.61	38.70
+▲ 1.63%	PCTI	PC-Tel Inc.	7.50	87,600	7.35	7.54
+▼ -1.10%	PEGA	Pegasystems Inc.	69.07	173,800	68.76	70.37
+▲ 3.67%	PRCP	Perceptron Inc.	4.80	8,700	4.62	4.80
+▼ -2.06%	PRFT	Perficient Inc.	37.03	149,500	36.88	37.80
+▼ -3.95%	PERI	Perion Network Ltd	4.86	335,800	4.71	5.16
+▲ 0.92%	PRSP	Perspecta Inc.	26.41	621,400	25.92	26.495
+▼ -1.38%	FENG	Phoenix New Media Limited American Depositary Shares each representing 8 Class A.	2.86	34,700	2.85	2.89
+▲ 1.80%	PLAB	Photronics Inc.	11.30	633,400	11.11	11.43
+▼ -5.89%	PHR	Phreesia Inc - Ordinary Shares	25.41	561,800	24.55	26.99
+▼ -5.59%	PHUN	Phunware Inc.	1.69	372,700	1.62	1.77
+▼ -0.72%	PT	Pintec Technology Holdings Limited	1.37	183,200	1.33	1.44
+▲ 1.00%	PINS	Pinterest Inc. Class A	27.38	2,657,900	27.15	27.73
+▼ -1.10%	PPSI	Pioneer Power Solutions Inc.	5.40	5,600	5.351	5.51
+▲ 0.07%	PVTL	Pivotal Software Inc. Class A	14.89	1,168,600	14.88	14.90
+▼ -0.27%	PXLW	Pixelworks Inc.	3.65	107,000	3.59	3.69
+▲ 2.33%	PLT	Plantronics Inc.	38.24	456,700	37.42	38.96
+▼ -1.12%	PLXS	Plexus Corp.	62.78	75,000	62.75	63.66
+▼ -1.85%	PLUG	Plug Power Inc.	2.65	2,243,900	2.62	2.70
+▼ -2.49%	PS	Pluralsight Inc.	16.655	1,492,500	16.59	17.13
+▲ 2.53%	PNTR	Pointer Telocation Ltd.	15.40	6,300	15.15	15.40
+▼ -3.02%	PCOM	Points International Ltd.	10.91	69,500	10.55	12.27
+▼ -7.84%	PBTS	Powerbridge Technologies Co. Ltd.	3.41	16,100	3.404	3.97
+▼ -0.60%	POWI	Power Integrations Inc.	92.06	90,500	91.32	93.30
+▼ -3.64%	PLPC	Preformed Line Products Company	54.20	9,800	53.71	55.68
+▼ -2.37%	PINC	Premier Inc.	30.02	1,378,760	29.88	31.63
+▲ 5.76%	PSDO	Presidio Inc.	16.80	10,845,200	16.71	16.84
+▼ -1.90%	PRTH	Priority Technology Holdings Inc.	5.17	4,600	5.14	5.50
+0.00%	IPDN	Professional Diversity Network Inc.	1.41	300	1.41	1.41
+▲ 3.51%	PRGS	Progress Software Corporation	41.93	566,500	40.22	42.14
+▼ -1.43%	PFPT	Proofpoint Inc.	125.09	700,800	124.97	128.59
+▲ 0.37%	PRO	PROS Holdings Inc.	59.37	142,500	58.11	59.49
+▲ 0.57%	PTC	PTC Inc.	67.36	803,500	66.35	67.77
+▼ -0.75%	PSTG	Pure Storage Inc. Class A	17.16	1,671,500	16.985	17.31
+▲ 0.28%	QTWO	Q2 Holdings Inc.	81.41	347,400	80.52	82.14
+0.00%	QADB	QAD Inc.	34.25	300	34.25	34.25
+▼ -0.35%	QADA	QAD Inc.	45.55	129,400	44.26	46.10
+▼ -2.38%	QRVO	Qorvo Inc.	75.10	990,000	74.68	76.26
+▲ 0.12%	QCOM	QUALCOMM Incorporated	77.35	3,760,300	75.94	77.69
+▼ -0.66%	QBAK	Qualstar Corporation	5.98	900	5.87	6.04
+▲ 0.57%	QLYS	Qualys Inc.	75.60	156,200	74.88	76.36
+▼ -2.21%	QTRH	Quarterhill Inc.	1.33	7,200	1.31	1.35
+▼ -2.70%	QUIK	QuickLogic Corporation	0.36	365,100	0.35	0.38
+▲ 0.39%	QNST	QuinStreet Inc.	12.75	455,500	12.46	12.82
+▲ 0.94%	QUMU	Qumu Corporation	3.23	6,100	3.20	3.30
+▲ 1.88%	QTT	Qutoutiao Inc.	3.79	1,956,805	3.55	3.83
+▼ -3.57%	RCM	R1 RCM Inc.	9.45	1,370,100	9.408	9.85
+▼ -0.49%	RDWR	Radware Ltd.	24.58	126,300	24.46	24.69
+▲ 0.07%	RMBS	Rambus Inc.	13.48	498,400	13.24	13.56
+▼ -1.98%	RPD	Rapid7 Inc.	47.54	431,200	47.21	48.47
+▲ 2.38%	RNWK	RealNetworks Inc.	1.72	1,600	1.68	1.72
+▲ 0.13%	RP	RealPage Inc.	63.73	266,300	62.83	64.18
+▼ -1.12%	RDVT	Red Violet Inc.	12.855	30,700	12.61	13.10
+▲ 3.57%	MARK	Remark Holdings Inc.	1.16	222,400	1.11	1.20
+▼ -3.33%	SOL	Renesola Ltd. ADR	1.74	138,800	1.69	1.82
+▲ 0.07%	RPAY	Repay Holdings Corporation	13.56	235,400	13.50	13.74
+▲ 1.64%	REFR	Research Frontiers Incorporated	3.72	93,000	3.66	3.80
+▲ 3.97%	RESN	Resonant Inc.	2.88	133,300	2.80	3.02
+▼ -4.55%	RVLT	Revolution Lighting Technologies Inc.	0.21	43,300	0.21	0.22
+▼ -1.29%	RFIL	RF Industries Ltd.	7.63	13,200	7.63	7.76
+▼ -1.50%	RELL	Richardson Electronics Ltd.	5.91	7,700	5.91	6.00
+▼ -0.91%	RMNI	Rimini Street Inc.	4.37	44,400	4.32	4.41
+▼ -1.05%	RNG	Ringcentral Inc. Class A	126.72	524,200	126.52	129.86
+▼ -4.10%	ROG	Rogers Corporation	135.06	203,600	134.79	140.47
+▼ -0.93%	RST	Rosetta Stone Inc.	18.04	158,500	17.60	18.42
+▲ 0.22%	RBCN	Rubicon Technology Inc.	9.09	2,300	8.81	9.15
+0.00%	RTEC	Rudolph Technologies Inc.	26.40	107,500	25.96	26.45
+▼ -0.98%	SABR	Sabre Corporation	22.82	1,480,000	22.78	23.16
+0.00%	SFET	Safe-T Group Ltd.	0.68	9,800	0.65	0.70
+▼ -1.02%	SAIL	SailPoint Technologies Holdings Inc.	19.48	1,528,100	19.19	19.73
+▼ -0.42%	CRM	Salesforce.com Inc	152.34	3,837,300	151.84	153.40
+▼ -0.76%	SANM	Sanmina Corporation	32.45	165,200	32.38	32.81
+▲ 1.68%	SPNS	Sapiens International Corporation N.V.	18.77	102,600	18.38	19.04
+▲ 0.34%	SAP	SAP SE ADS	117.66	1,813,500	117.00	118.11
+▲ 0.30%	SCSC	ScanSource Inc.	30.57	118,800	30.24	30.72
+▼ -4.78%	SMIT	Schmitt Industries Inc.	2.19	2,700	2.19	2.25
+▲ 0.60%	SAIC	SCIENCE APPLICATIONS INTERNATIONAL CORPORATION	86.66	349,220	85.2921	86.84
+▼ -0.66%	SCPL	SciPlay Corporation	10.57	212,300	10.378	10.75
+▼ -7.14%	WORX	SCWorx Corp.	2.665	9,900	2.665	2.87
+▲ 3.07%	SEAC	SeaChange International Inc.	3.02	122,400	2.93	3.05
+▲ 1.09%	STX	Seagate Technology PLC	53.66	3,227,300	52.79	53.90
+▲ 0.09%	SE	Sea Limited American Depositary Shares each representing one Class A	32.47	2,036,200	32.20	32.93
+▲ 1.32%	SCWX	SecureWorks Corp.	13.02	112,600	12.43	13.10
+▼ -0.39%	LEDS	SemiLEDS Corporation	2.54	10,500	2.52	2.56
+▲ 5.87%	SMTC	Semtech Corporation	50.12	1,277,900	48.05	50.78
+▼ -1.14%	ST	Sensata Technologies Holding plc	49.40	723,600	49.21	50.10
+0.00%	SQNS	Sequans Communications S.A. American Depositary Shares each representing one	0.89	91,700	0.82	0.92
+▼ -0.54%	NOW	ServiceNow Inc.	257.99	945,200	255.24	259.65
+▲ 3.37%	SREV	ServiceSource International Inc.	0.92	130,200	0.89	0.94
+0.00%	SVT	Servotronics Inc.	10.05	3,700	10.05	10.27
+0.00%	SGOC	SGOCO Group Ltd	1.00	3,300	1.00	1.02
+▼ -0.46%	SHOP	Shopify Inc. Class A Subordinate	313.14	2,935,900	302.36	316.19
+▼ -0.30%	SSTI	ShotSpotter Inc.	23.27	130,200	23.00	23.98
+▼ -0.65%	SSTK	Shutterstock Inc.	35.42	97,016	34.86	35.60
+▼ -1.72%	SWIR	Sierra Wireless Inc.	10.85	82,200	10.72	11.05
+▲ 5.32%	SGLB	Sigma Labs Inc.	0.7688	27,900	0.7354	0.77
+▲ 0.25%	SGMA	SigmaTron International Inc.	4.08	9,200	4.07	4.35
+▼ -1.65%	SILC	Silicom Ltd	32.71	13,000	32.50	32.90
+▼ -0.35%	SLAB	Silicon Laboratories Inc.	113.94	255,400	112.97	115.16
+▼ -0.12%	SIMO	Silicon Motion Technology Corporation	33.28	332,700	32.78	33.67
+▲ 0.27%	SSNT	SilverSun Technologies Inc.	3.65	11,200	3.56	3.87
+▼ -1.07%	SLP	Simulations Plus Inc.	34.32	82,100	34.19	34.97
+▼ -3.50%	SINA	Sina Corporation	40.00	960,100	39.91	42.07
+▼ -0.78%	SWKS	Skyworks Solutions Inc.	80.36	2,300,600	79.39	80.73
+▼ -0.44%	WORK	Slack Technologies Inc. Class A	22.63	5,559,600	21.96	22.94
+▼ -9.84%	SGH	SMART Global Holdings Inc.	24.98	2,030,300	24.25	27.82
+▲ 0.84%	SMAR	Smartsheet Inc. Class A	38.49	2,279,800	37.65	39.04
+▲ 0.58%	SMSI	Smith Micro Software Inc.	5.24	274,800	5.08	5.29
+▼ -3.48%	SMTX	SMTC Corporation	2.22	47,900	2.21	2.39
+▼ -0.64%	SNAP	Snap Inc. Class A	17.00	15,926,192	16.66	17.0377
+▲ 0.85%	SCKT	Socket Mobile Inc.	2.37	22,700	2.29	2.40
+▲ 0.60%	SOGO	Sogou Inc. American Depositary Shares each representing one Class A	4.99	496,900	4.95	5.065
+▼ -2.06%	SOHU	Sohu.com Limited	10.47	147,300	10.39	10.80
+▼ -3.34%	SEDG	SolarEdge Technologies Inc.	85.35	666,400	84.97	89.529
+▲ 1.43%	SWI	SolarWinds Corporation	19.11	530,700	18.66	19.16
+▲ 10.84%	SONM	Sonim Technologies Inc.	3.17	979,400	2.82	3.37
+▼ -3.45%	SONO	Sonos Inc.	13.44	2,424,500	13.12	13.90
+▼ -1.93%	SNE	Sony Corporation	59.41	825,500	59.23	60.08
+▼ -3.16%	SY	So-Young International Inc - ADR	10.11	235,500	9.84	10.54
+▲ 2.13%	LOV	Spark Networks Inc. American Depositary Shares (each representing one-tenth of an)	5.28	93,800	5.00	5.43
+▼ -2.33%	ANY	Sphere 3D Corp.	1.26	31,500	1.25	1.28
+▲ 2.29%	SPI	SPI Energy Co. Ltd.	3.58	72,200	3.45	3.69
+▲ 1.73%	SPLK	Splunk Inc.	119.57	1,047,000	117.35	120.17
+▼ -1.71%	SPOT	Spotify Technology S.A.	116.20	1,378,900	114.76	119.19
+▼ -0.11%	SPSC	SPS Commerce Inc.	47.16	132,000	46.35	47.40
+▲ 3.91%	SQ	Square Inc. Class A	60.80	16,447,900	59.83	61.15
+▲ 1.38%	SSNC	SS&C Technologies Holdings Inc.	51.33	2,100,900	50.47	51.68
+▼ -0.87%	STMP	Stamps.com Inc.	73.28	259,400	72.01	74.05
+▼ -0.31%	STM	STMicroelectronics N.V.	19.29	1,297,600	19.15	19.42
+▲ 1.68%	STNE	StoneCo Ltd.	35.64	1,016,989	34.62	35.86
+▼ -2.06%	SSYS	Stratasys Ltd.	21.43	476,900	21.23	21.82
+▲ 2.78%	STRM	Streamline Health Solutions Inc.	1.11	8,400	1.08	1.15
+▲ 11.11%	WISA	Summit Semiconductor Inc.	1.00	45,400	0.91	1.00
+▼ -3.16%	NOVA	Sunnova Energy International Inc - Ordinary Shares	11.65	389,900	11.59	12.11
+▼ -9.69%	SPWR	SunPower Corporation	12.49	3,655,400	12.47	13.90
+▼ -1.71%	RUN	Sunrun Inc.	16.64	4,395,800	16.425	17.70
+▼ -3.53%	SUNW	Sunworks Inc.	2.46	34,600	2.42	2.57
+▲ 4.55%	SCON	Superconductor Technologies Inc.	0.69	9,000	0.62	0.72
+▼ -8.82%	SLGG	Super League Gaming Inc.	4.55	27,700	4.48	4.985
+▲ 1.32%	SPRT	Support.com Inc.	1.53	72,000	1.52	1.54
+▼ -2.91%	SVMK	SVMK Inc.	17.01	503,500	16.96	17.48
+▼ -1.68%	SWCH	Switch Inc. Class A	15.79	499,000	15.59	16.06
+▲ 0.32%	SYKE	Sykes Enterprises Incorporated	30.98	129,700	30.66	31.11
+▼ -0.25%	SYMC	Symantec Corporation	23.74	2,419,800	23.56	23.81
+▼ -2.05%	SYNC	Synacor Inc.	1.43	56,000	1.39	1.49
+▼ -1.95%	SYNA	Synaptics Incorporated	39.32	454,600	39.03	40.58
+▼ -2.79%	SNCR	Synchronoss Technologies Inc.	5.58	412,500	5.50	5.74
+▲ 0.97%	SNPS	Synopsys Inc.	140.74	754,400	139.03	141.45
+▼ -1.69%	TRHC	Tabula Rasa HealthCare Inc.	56.52	163,569	55.28	57.86
+▲ 3.21%	TAIT	Taitron Components Incorporated	2.89	8,200	2.78	2.93
+▲ 3.22%	TSM	Taiwan Semiconductor Manufacturing Company Ltd.	46.46	15,832,500	45.10	46.51
+▼ -0.37%	TTWO	Take-Two Interactive Software Inc.	126.77	695,100	126.54	128.56
+▼ -1.54%	TLND	Talend S.A.	34.48	209,900	33.66	35.55
+0.00%	TAOP	Taoping Inc.	0.58	4,700	0.54	0.59
+▲ 0.28%	TECD	Tech Data Corporation	104.51	189,000	103.33	105.12
+▼ -0.80%	TCCO	Technical Communications Corporation	2.48	700	2.48	2.48
+▼ -0.47%	TTGT	TechTarget Inc.	23.46	116,100	23.21	23.55
+▲ 0.46%	TEL	TE Connectivity Ltd. New Switzerland Registered Shares	93.09	1,262,600	92.19	93.36
+▼ -0.67%	TDOC	Teladoc Inc.	68.54	1,127,500	67.56	69.66
+▼ -3.39%	TLRA	Telaria Inc.	7.13	875,200	6.92	7.43
+▼ -0.32%	TDY	Teledyne Technologies Incorporated	318.97	143,200	318.97	322.45
+▼ -4.47%	TNAV	Telenav Inc.	4.92	821,400	4.90	5.23
+▼ -0.97%	TENB	Tenable Holdings Inc.	23.49	549,400	23.26	23.76
+▼ -0.69%	TME	Tencent Music Entertainment Group American Depositary Shares each representing two Class A	13.03	3,271,500	12.80	13.189
+▲ 0.22%	TDC	Teradata Corporation	31.69	639,900	31.05	31.81
+▼ -0.34%	TER	Teradyne Inc.	59.22	1,765,900	58.92	59.75
+▲ 0.48%	TESS	TESSCO Technologies Incorporated	14.56	20,700	14.18	14.64
+▲ 0.29%	TXN	Texas Instruments Incorporated	128.11	3,297,700	126.64	128.67
+0.00%	NCTY	The9 Limited	1.02	40,900	1.02	1.06
+▲ 0.61%	DSGX	The Descartes Systems Group Inc.	39.83	87,700	39.26	39.88
+▼ -0.88%	MEET	The Meet Group Inc.	3.38	741,300	3.30	3.42
+▼ -4.01%	RUBI	The Rubicon Project Inc.	8.86	582,200	8.80	9.33
+▼ -0.09%	TTD	The Trade Desk Inc.	194.40	1,278,000	191.34	199.36
+▼ -0.49%	TIVO	TiVo Corporation	8.18	955,200	8.12	8.24
+▼ -0.36%	TSEM	Tower Semiconductor Ltd.	19.28	419,400	19.12	19.68
+▲ 2.81%	TACT	TransAct Technologies Incorporated	12.44	3,300	12.10	12.44
+▲ 0.72%	TRNS	Transcat Inc.	25.06	25,700	24.32	25.50
+▼ -2.28%	TZOO	Travelzoo	10.29	29,400	10.17	10.65
+▲ 1.17%	TRMB	Trimble Inc.	38.78	1,881,300	38.10	39.02
+0.00%	TRT	Trio-Tech International	3.70	0	3.70	3.70
+▼ -1.12%	TRUE	TrueCar Inc.	3.52	1,013,500	3.385	3.62
+▼ -3.46%	TSRI	TSR Inc.	3.35	3,000	3.20	3.42
+▼ -0.64%	TTMI	TTM Technologies Inc.	12.38	781,100	12.29	12.47
+▼ -4.10%	TC	TuanChe Limited	2.34	15,400	2.22	2.43
+▲ 0.55%	TCX	Tucows Inc.	54.57	44,800	53.16	54.63
+▼ -2.58%	TUFN	Tufin Software Technologies Ltd.	16.97	170,200	16.70	17.81
+▲ 5.18%	HEAR	Turtle Beach Corporation	10.55	997,300	9.97	10.60
+▲ 0.43%	TWLO	Twilio Inc. Class A	110.90	3,022,600	108.41	112.31
+▼ -0.14%	TWTR	Twitter Inc.	42.44	5,951,400	41.72	42.49
+▲ 0.09%	TYL	Tyler Technologies Inc.	263.19	132,700	260.81	264.52
+▼ -0.35%	UBER	Uber Technologies Inc.	31.57	6,058,700	31.13	32.13
+▼ -0.36%	UI	Ubiquiti Inc - Ordinary Shares	115.43	231,400	114.54	116.13
+▼ -0.20%	UCTT	Ultra Clean Holdings Inc.	15.22	465,400	15.17	15.78
+▼ -0.93%	UIS	Unisys Corporation	7.47	946,100	7.41	7.85
+▼ -1.38%	UMC	United Microelectronics Corporation (NEW)	2.14	596,100	2.13	2.16
+▼ -0.01%	OLED	Universal Display Corporation	176.53	479,900	174.15	177.50
+▼ -2.09%	UEIC	Universal Electronics Inc.	51.60	100,100	51.60	53.10
+▼ -0.80%	UPLD	Upland Software Inc.	34.79	302,300	34.11	35.11
+▼ -1.67%	UPWK	Upwork Inc.	13.52	690,500	13.48	13.84
+▲ 9.63%	USAT	USA Technologies Inc.	4.78	8,819,400	4.26	5.24
+▼ -2.40%	USIO	Usio Inc.	2.03	13,700	2.01	2.31
+▲ 9.66%	UXIN	Uxin Limited	2.61	1,989,600	2.28	2.61
+▼ -1.08%	VRNS	Varonis Systems Inc.	62.01	321,500	61.50	63.35
+▼ -1.13%	VECO	Veeco Instruments Inc.	12.23	222,300	12.12	12.53
+▼ -0.43%	VEEV	Veeva Systems Inc. Class A	154.63	2,288,400	151.83	159.75
+▼ -4.92%	VERB	Verb Technology Company Inc.	1.16	57,100	1.15	1.221
+▼ -1.22%	VRNT	Verint Systems Inc.	43.75	410,500	43.30	44.34
+▲ 0.66%	VRSN	VeriSign Inc.	191.19	481,900	189.14	192.00
+▼ -0.26%	VERI	Veritone Inc.	3.83	750,800	3.80	4.13
+▼ -3.07%	VSAT	ViaSat Inc.	75.27	424,600	74.47	77.68
+▼ -2.20%	VIAV	Viavi Solutions Inc.	14.24	1,713,400	14.21	14.58
+▼ -2.75%	VICR	Vicor Corporation	30.01	94,500	29.54	30.86
+▲ 0.74%	VIOT	Viomi Technology Co. Ltd	8.18	77,300	8.02	8.26
+▼ -1.43%	VHC	VirnetX Holding Corp	5.52	190,200	5.46	5.64
+▼ -1.99%	VRTU	Virtusa Corporation	36.00	396,100	35.47	37.15
+▼ -3.04%	VSH	Vishay Intertechnology Inc.	16.91	827,000	16.90	17.49
+▼ -1.48%	VPG	Vishay Precision Group Inc.	33.27	49,300	33.14	33.84
+▲ 1.79%	VISL	Vislink Technologies Inc.	0.57	205,900	0.56	0.60
+▼ -8.10%	VSLR	Vivint Solar Inc.	6.69	2,578,300	6.53	7.235
+▼ -3.68%	VVPR	VivoPower International PLC	1.31	25,100	1.31	1.36
+▼ -1.14%	VMW	Vmware Inc. Class A	147.36	1,165,300	145.39	149.87
+▼ -0.76%	VCRA	Vocera Communications Inc.	24.88	297,700	24.61	25.27
+▼ -2.76%	VJET	voxeljet AG American Depositary Shares each representing one-fifth of an/	1.76	16,200	1.76	1.82
+▼ -1.27%	VUZI	Vuzix Corporation	2.33	154,600	2.30	2.41
+▲ 1.34%	WSTG	Wayside Technology Group Inc.	15.12	2,800	14.65	15.23
+▼ -1.63%	WB	Weibo Corporation	45.98	1,090,700	45.55	47.20
+▲ 2.99%	WSTL	Westell Technologies Inc.	1.38	2,500	1.34	1.38
+▲ 1.23%	WDC	Western Digital Corporation	61.80	4,439,600	60.88	62.50
+0.00%	WYY	WidePoint Corporation	0.31	94,000	0.30	0.32
+▲ 0.84%	WIT	Wipro Limited	3.62	861,600	3.57	3.62
+▼ -2.10%	WTT	Wireless Telecom Group Inc.	1.40	2,000	1.40	1.48
+▼ -0.44%	WIX	Wix.com Ltd.	117.39	611,000	117.10	120.94
+▲ 2.62%	WDAY	Workday Inc.	174.44	3,050,200	169.80	175.92
+▼ -0.51%	WK	Workiva Inc. Class A	44.46	207,100	43.68	45.02
+▲ 1.30%	XRX	Xerox Corporation	30.39	2,879,300	29.61	30.40
+▲ 0.05%	XLNX	Xilinx Inc.	97.24	2,419,100	96.11	98.16
+▲ 3.74%	XPER	Xperi Corporation	21.06	340,400	20.32	21.08
+▼ -5.06%	XNET	Xunlei Limited	2.44	130,000	2.41	2.57
+▼ -0.85%	YNDX	Yandex N.V.	36.17	1,434,100	36.00	36.43
+▲ 0.34%	YELP	Yelp Inc.	35.08	768,500	34.61	35.27
+▼ -1.92%	YEXT	Yext Inc.	16.31	526,600	16.19	16.57
+▼ -1.78%	YY	YY Inc.	59.19	611,900	58.77	60.56
+▼ -0.15%	ZAYO	Zayo Group Holdings Inc.	33.84	3,601,300	33.82	33.92
+▲ 0.15%	ZBRA	Zebra Technologies Corporation	208.27	203,500	205.27	209.29
+▲ 13.29%	ZDGE	Zedge Inc. Class B	1.79	11,000	1.57	1.79
+▲ 0.93%	ZEN	Zendesk Inc.	74.08	1,191,600	73.01	74.80
+▲ 0.95%	ZIXI	Zix Corporation	7.43	581,000	7.15	7.46
+▼ -0.25%	ZS	Zscaler Inc.	48.77	2,363,500	48.45	49.885
+▲ 4.92%	ZUO	Zuora Inc. Class A	15.99	3,679,000	15.07	16.59
+▼ -0.66%	ZNGA	Zynga Inc.	6.00	18,108,600	5.93	6.06
