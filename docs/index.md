@@ -1,6 +1,9 @@
 Juanjo Capital
 ==========================
 
+## About
+We are a student-operated systematic quantitative trading fund at the University of Virginia. Through Juanjo Capital, we are striving to learn more about the world of quantitative finance and how various trading strategies are created, and consistently build our skills in this field.
+
 ## Co-founders
 - Dean Sublett
 - Adeet Patel
@@ -11,7 +14,7 @@ Juanjo Capital
 - Abhinay Dommalapati
 - Srujan Joshi
 
-## Prereqs
+## Prerequisites
 Working in a virtual environment through `venv` with the latest version of [Python](https://www.python.org/downloads/) is recommended.
 
 - jupyter
