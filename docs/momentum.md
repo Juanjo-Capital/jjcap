@@ -1,4 +1,4 @@
-# Juanjo Capital: Momentum Trading Strategy
+# Momentum Trading Strategy
 
 [Return to main page](index.md)
 
