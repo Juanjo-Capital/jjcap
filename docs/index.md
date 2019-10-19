@@ -24,4 +24,4 @@ Working in a virtual environment through `venv` with the latest version of [Pyth
 
 ## Strategies
 - [Momentum Trading](momentum.md)
-- ML Classification with Google News & Wikipedia Page Trends
+- [ML Classification with Google News & Wikipedia Page Trends](google-wiki-ml.md)
