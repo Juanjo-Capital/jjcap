@@ -55,7 +55,6 @@ def fit_predict(df, m):
 
 # Test set metrics
 def get_metrics(results):
-    #results_logreg = fit_and_predict(df, "LogReg")
     test = results[2]
     test_pred = results[0]
     train = results[5]
