@@ -21,6 +21,7 @@ Working in a virtual environment through `venv` with the latest version of [Pyth
 - [pandas](https://pandas.pydata.org/)
 - [alpaca-trade-api](https://github.com/alpacahq/alpaca-trade-api-python)
 - [finviz](https://github.com/mariostoev/finviz)
+- [pytrends](https://github.com/GeneralMills/pytrends)
 
 ## Strategies
 - [Momentum Trading](momentum.md)
