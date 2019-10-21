@@ -14,6 +14,10 @@ We are a student-operated systematic quantitative trading fund at the University
 - Abhinay Dommalapati
 - Srujan Joshi
 
+## Strategies
+- [Momentum Trading](momentum.md)
+- [ML Classification with Google News & Wikipedia Page Trends](google-wiki-ml.md)
+
 ## Prerequisites
 Working in a virtual environment through `venv` with the latest version of [Python](https://www.python.org/downloads/) is recommended.
 
@@ -22,7 +26,3 @@ Working in a virtual environment through `venv` with the latest version of [Pyth
 - [alpaca-trade-api](https://github.com/alpacahq/alpaca-trade-api-python)
 - [finviz](https://github.com/mariostoev/finviz)
 - [pytrends](https://github.com/GeneralMills/pytrends)
-
-## Strategies
-- [Momentum Trading](momentum.md)
-- [ML Classification with Google News & Wikipedia Page Trends](google-wiki-ml.md)
