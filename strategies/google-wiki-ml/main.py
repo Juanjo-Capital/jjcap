@@ -1,4 +1,5 @@
 import pandas as pd
+from models import df
 from models import fit_predict, get_metrics
 
 print("Logistic regression ===================================================")
