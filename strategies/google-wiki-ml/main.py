@@ -1,21 +1,6 @@
 import pandas as pd
 from models import fit_predict, get_metrics
 
-# Import raw data set
-df0 = pd.read_excel("aapl.xlsx").iloc[2:, :].reset_index(drop = True)
-
-# Remove the first 14 rows and the last row (we don't have future data in the present)
-df0 = df0.iloc[14:-1, :].reset_index(drop = True)
-df0["Wiki Move"] = df0["Wiki Move"].astype(int)
-df0["Goog ROC"] = df0["Goog ROC"].astype(float)
-
-# Select columns from data set
-df = df0[["Open", "Close", "High", "Low", "RS", "Wiki Traffic- 1 Day Lag", "Wiki 5day disparity", "Wiki Move", "Wiki MA3 Move", "Wiki MA5 Move", "Wiki EMA5 Move", "Goog RS", "Goog MA3", "Goog MA5", "Goog EMA5 Move", "Goog 3day Disparity Move", "Goog ROC Move", "Goog RSI Move", "Wiki 3day Disparity", "Price RSI Move", "Google_Move", "Target"]]
-
-features = ["Wiki Traffic- 1 Day Lag", "Wiki 5day disparity", "Wiki Move", "Wiki MA3 Move", "Wiki MA5 Move", "Wiki EMA5 Move", "Goog MA3", "Target"]
-
-df = df[features]
-
 print("Logistic regression ===================================================")
 logreg_metrics = get_metrics(fit_predict(df, "LogReg"))
 print(logreg_metrics)
