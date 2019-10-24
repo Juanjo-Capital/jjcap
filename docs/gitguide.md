@@ -1,5 +1,7 @@
 # Git Guide
 
+[Return to main page](index.md)
+
 Written by Annie Williams
 
 ## What is Git?

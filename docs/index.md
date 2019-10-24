@@ -18,6 +18,10 @@ We are a student-operated systematic quantitative trading fund at the University
 - [Momentum Trading](momentum.md)
 - [ML Classification with Google News & Wikipedia Page Trends](google-wiki-ml.md)
 
+## Resources
+- [Git Guide](gitguide.md)
+- [Alpaca Setup Tutorial](alpaca-setup.md)
+
 ## Prerequisites
 Working in a virtual environment through `venv` with the latest version of [Python](https://www.python.org/downloads/) is recommended.
 
