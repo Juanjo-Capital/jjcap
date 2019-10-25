@@ -19,6 +19,7 @@ We are a student-operated systematic quantitative trading fund at the University
 - [ML Classification with Google News & Wikipedia Page Trends](strategies/google-wiki-ml/index.md)
 
 ## Resources
+- [Meeting Slides](resources/meeting-slides/index.md)
 - [Meeting Notes](resources/meeting-notes/index.md)
 - [Git Guide](resources/gitguide.md)
 - [Alpaca Setup Tutorial](resources/alpaca-setup.md)
