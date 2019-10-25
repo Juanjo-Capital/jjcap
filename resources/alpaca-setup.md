@@ -1,6 +1,6 @@
 # Alpaca Setup Tutorial
 
-[Return to main page](index.md)
+[Return to main page](../index.md)
 
 This tutorial is designed to help you start paper trading with Alpaca. I’ll assume that you’re on a Windows machine. If you’re using MacOS/Linux, this process should be more streamlined for you, and I’ll bet you can fill in any of the gaps here.
 
