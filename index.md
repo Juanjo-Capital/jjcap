@@ -15,8 +15,8 @@ We are a student-operated systematic quantitative trading fund at the University
 - Srujan Joshi
 
 ## Strategies
-- [Momentum Trading](strategies/momentum.md)
-- [ML Classification with Google News & Wikipedia Page Trends](strategies/google-wiki-ml.md)
+- [Momentum Trading](strategies/momentum/index.md)
+- [ML Classification with Google News & Wikipedia Page Trends](strategies/google-wiki-ml/index.md)
 
 ## Resources
 - [Meeting Notes](resources/meeting-notes/index.md)
