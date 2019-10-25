@@ -1,6 +1,6 @@
 # Git Guide
 
-[Return to main page](index.md)
+[Return to main page](../index.md)
 
 Written by Annie Williams
 

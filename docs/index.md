@@ -15,13 +15,13 @@ We are a student-operated systematic quantitative trading fund at the University
 - Srujan Joshi
 
 ## Strategies
-- [Momentum Trading](momentum.md)
-- [ML Classification with Google News & Wikipedia Page Trends](google-wiki-ml.md)
+- [Momentum Trading](strategies/momentum.md)
+- [ML Classification with Google News & Wikipedia Page Trends](strategies/google-wiki-ml.md)
 
 ## Resources
-- [Meeting Notes](meeting-notes/index.md)
-- [Git Guide](gitguide.md)
-- [Alpaca Setup Tutorial](alpaca-setup.md)
+- [Meeting Notes](resources/meeting-notes/index.md)
+- [Git Guide](resources/gitguide.md)
+- [Alpaca Setup Tutorial](resources/alpaca-setup.md)
 
 ## Prerequisites
 Working in a virtual environment through `venv` with the latest version of [Python](https://www.python.org/downloads/) is recommended.
