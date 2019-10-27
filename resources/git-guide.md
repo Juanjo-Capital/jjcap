@@ -59,8 +59,8 @@ Once you've committed your changes to your fork, you will need to create a pull 
 4. Once the upstream is set, we run `git pull upstream master` to grab the code from the parent repository and merge it into our own work.
 
 ## Other help
-- Help, I broke something: https://github.com/k88hudson/git-flight-rules
-- Oh shit, git: https://ohshitgit.com/
-- Learn how to use branches: https://learngitbranching.js.org/?locale=en_US
-- Github’s guide to forking: https://help.github.com/en/articles/fork-a-repo
+- [Help, I broke something](https://github.com/k88hudson/git-flight-rules)
+- [Oh shit, git](https://ohshitgit.com/)
+- [Learn how to use branches](https://learngitbranching.js.org/?locale=en_US)
+- [Github’s guide to forking](https://help.github.com/en/articles/fork-a-repo)
 - Slack Annie
