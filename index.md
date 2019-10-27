@@ -14,6 +14,9 @@ We are a student-operated systematic quantitative trading fund at the University
 - Abhinay Dommalapati
 - Srujan Joshi
 
+## GitHub Repository
+Click [here](https://github.com/Juanjo-Capital/jjcap) to access our GitHub repository. If you would like to make contributions, please read the Git Guide in the Resources section below, which will guide you through the process of forking the repository and making your own changes.
+
 ## Strategies
 - [Momentum Trading](strategies/momentum/index.md)
 - [ML Classification with Google News & Wikipedia Page Trends](strategies/google-wiki-ml/index.md)
