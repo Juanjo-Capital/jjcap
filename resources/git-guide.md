@@ -41,6 +41,17 @@ In your terminal/shell, change directories (`cd`) into the folder that your new 
 3. `git commit -m "description of changes"` - after adding the files you want, this command saves a version of your changes on your computer. You can revert back to a commit if you break stuff and want to go back. Don’t forget the quotes around your commit message, or git will get upset.
 4. `git push origin branchname` - when we push it sends our commit history of the branch we are on to the repository online for everybody else to see. We use `origin` to specify that we are sending code to the place we cloned from earlier. Check online to see if your code is there or if you aren’t sure your push worked. 
 
+## I've done some work, how do I add it to the main Juanjo Capital repo?
+Once you've committed your changes to your fork, you will need to create a pull request if you want your changes merged into the main repo:
+
+1. Go to the main page of your fork (the URL should be github.com/yourname/jjcap).
+2. Click on the **Pull requests** tab (it's located next to the Code tab).
+3. Click on the green button **New pull request** in the upper right corner.
+4. GitHub will compare your fork against the main repo so that you can see any changes you've made. Make sure that the base repository is *Juanjo-Capital/jjcap* and the head repository is *yourname/jjcap* (which should be the default setting).
+5. Click on the green button **Create pull request**.
+6. Enter a title and some comments describing your changes, and click on the green button **Create pull request**.
+7. Once you have submitted your pull request, the officers will take a look at it and hopefully merge it into the main repo. If your pull request gets merged, its status will change from "Open" to "Merged".
+
 ## Everybody has been pushing code… how do I get their code onto my computer? 
 1. Commit your code (see above) and make sure you are on the branch that you want to update. 
 2. If you say `git status`, it might specify that you are already up to date. This is because it is comparing the status of your local version with the version of *yourname/reponame*, not Juanjo-Capital/reponame. 
@@ -48,8 +59,8 @@ In your terminal/shell, change directories (`cd`) into the folder that your new 
 4. Once the upstream is set, we run `git pull upstream master` to grab the code from the parent repository and merge it into our own work.
 
 ## Other help
-- Help, I broke something: https://github.com/k88hudson/git-flight-rules
-- Oh shit, git: https://ohshitgit.com/
-- Learn how to use branches: https://learngitbranching.js.org/?locale=en_US
-- Github’s guide to forking: https://help.github.com/en/articles/fork-a-repo
+- [Help, I broke something](https://github.com/k88hudson/git-flight-rules)
+- [Oh shit, git](https://ohshitgit.com/)
+- [Learn how to use branches](https://learngitbranching.js.org/?locale=en_US)
+- [Github’s guide to forking](https://help.github.com/en/articles/fork-a-repo)
 - Slack Annie
