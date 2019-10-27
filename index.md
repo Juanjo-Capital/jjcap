@@ -24,7 +24,7 @@ Click [here](https://github.com/Juanjo-Capital/jjcap) to access our GitHub repos
 ## Resources
 - [Meeting Slides](resources/meeting-slides/index.md)
 - [Meeting Notes](resources/meeting-notes/index.md)
-- [Git Guide](resources/gitguide.md)
+- [Git Guide](resources/git-guide.md)
 - [Alpaca Setup Tutorial](resources/alpaca-setup.md)
 
 ## Prerequisites
