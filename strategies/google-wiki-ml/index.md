@@ -3,7 +3,7 @@
 [Return to main page](../../index.md)
 
 ## About
-[Project link](https://github.com/Juanjo-Capital/jjcap/tree/master/strategies/google-wiki-ml)
+[Project link](https://github.com/adeet1/rqa-ml-classifier)
 
 ## External Collaborators
 - Andrew Holpe (Richmond Quantitative Advisors)
